@@ -1,11 +1,15 @@
 ---
 layout: post
 title: Arduino ESP8266 Bootstrap
-categories: [Arduino,Video]
+categories: [Arduino]
+tags: [YouTube, ESP8266]
+excerpt_separator: <!--more-->
 ---
 
 Created a short video outlining the steps to get [Arduino IDE][1] setup for development on 
 ESP8266 development board. Specifically the [NODEMCU ESP-32S](http://a.co/d/6KQUi02). ![ESP32](/images/NodeMCU-32S.png)
+
+<!--more-->
 
 1. [Arduino IDE][1] install
  
