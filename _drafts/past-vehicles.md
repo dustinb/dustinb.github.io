@@ -1,13 +1,43 @@
 ---
 layout: post
-title: History Of Vehicles
+title: Short History Of Vehicles
 categories: [Mechanic]
 excerpt_separator: <!--more-->
 ---
 
-Show various vehicles owned/repaired/driven over the years with a lightbox popout.  See [here](/jekyll/lightbox) how I got 
-lightbox working in Jekyll.  Some of these are real photos, some are representations as noted.
+A short history of vehicles driven/owned/repaired over the years with a lightbox popout.  See [here](/jekyll/lightbox) 
+how I got lightbox working in Jekyll.  Some of these are real photos, some are representations as noted.
 
+<a href="/images/ford-escort-1986.jpg" data-lightbox="image-1" data-title="@1986 Ford Escort">
+  <img width="150" src="images/ford-escort-1986.jpg"/>
+</a>
+<a href="/images/broncoII.jpg" data-lightbox="image-1" data-title="@1985 Bronco II">
+  <img width="150" src="images/broncoII.jpg"/>
+</a>
+<a href="/images/1981-Ford-Fairmont.jpg" data-lightbox="image-1" data-title="1980 Ford Fairmont">
+  <img width="150" src="/images/1981-Ford-Fairmont.jpg"/>
+</a>
+<a href="/images/dasher.png" data-lightbox="image-1" data-title="1972 VW Dasher">
+  <img width="150" src="/images/dasher.png"/>
+</a>
+<a href="/images/2001DRZ.jpg" data-lightbox="image-1" data-title="2001 Yamaha DRZ400">
+  <img width="150" src="/images/2001DRZ.jpg"/>
+</a>
+<a href="/images/1972DS7.jpg" data-lightbox="image-1" data-title="1972 Yamaha DS7">
+  <img width="150" src="/images/1972DS7.jpg"/>
+</a>
+<a href="/images/1977XS750.jpg" data-lightbox="image-1" data-title="1977 Yamaha XS750">
+  <img width="150" src="/images/1977XS750.jpg"/>
+</a>
+<a href="/images/1978XS750.jpg" data-lightbox="image-1" data-title="1978 Yamaha XS750">
+  <img width="150" src="/images/1978XS750.jpg"/>
+</a>
+
+<a href="/images/1978DT125.jpg" data-lightbox="image-1" data-title="1978 Yamaha DT125">
+  <img width="150" src="/images/1978DT125.jpg"/>
+</a>
+
+<!--more-->
 
 # 1985 Bronco II
 
@@ -15,19 +45,17 @@ My Dad's vehicle I was allowed to drive if needed. Complete with CB radio you co
 chat on citizens band.  Also used to haul the old Yar Craft 65 Horse tri hull to the lake for some skiiing.
  
 <a href="/images/broncoII.jpg" data-lightbox="image-1" data-title="@1985 Bronco II">
-  <img width="200" src="images/broncoII.jpg"/>
+  <img width="150" src="images/broncoII.jpg"/>
 </a>
-
+ 
 # 1986 Ford Escort
 
 My first purchased vehicle from a friend in high school.  Believe it was a 4 door.  The car lost it's life after
 a radiator leak and the and the engine overheated. __picture is representation__
 
 <a href="/images/ford-escort-1986.jpg" data-lightbox="image-1" data-title="@1986 Ford Escort">
-  <img width="200" src="images/ford-escort-1986.jpg"/>
+  <img width="150" src="images/ford-escort-1986.jpg"/>
 </a>
-
-
 
 # 1972 VW Dasher
 
@@ -39,6 +67,12 @@ the fun but I paid something like $125 for someone to take my $400 car away for 
   <img width="200" src="images/dasher.png"/>
 </a>
 
+# 2001 Yamaha DRZ 400
+
+<a href="/images/2001DRZ.jpg" data-lightbox="image-1" data-title="2001 Yamaha DRZ400">
+  <img width="200" src="images/2001DRZ.jpg"/>
+</a>
+
 # 1972 Yamaha DS7
 
 The picture not of the exact bike but is same year, color, and similar dent on the tank. This was a sweet ride, 2 stroke
@@ -46,7 +80,16 @@ twin engine, kick start only.  The bike was road worthy have a ood carb cleaning
 how in summer of 2018.
 
 <a href="/images/1972DS7.jpg" data-lightbox="image-1" data-title="1972 Yamaha DS7">
-  <img width="200" src="/images/1972DS7.jpg"/>
+  <img width="150" src="/images/1972DS7.jpg"/>
+</a>
+
+# 1994 Chevy C1500
+
+Having hard time finding good picture so we have a 1978 Yamaha DT125 in the mix.  This was a great truck and still 
+ran great when I sold it to upgrade to something with 4 wheel drive.
+
+<a href="/images/1978DT125.jpg" data-lightbox="image-1" data-title="1994 Chevey C15005">
+  <img width="200" src="/images/1978DT125.jpg"/>
 </a>
 
 # 1977 Yamaha XS750
