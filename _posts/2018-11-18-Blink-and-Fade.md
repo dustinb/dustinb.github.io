@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ESP8266 Blink & Fade
+title: ESP32 Blink & Fade
 categories: [Arduino]
 tags: [YouTube, ESP8266]
 excerpt_separator: <!--more-->
@@ -14,10 +14,13 @@ and `analogWrite`. To use `analogWrite` for the example fade sketch an external 
  that some of the pins, *34 to 39*, are input only so cannot be set to `pinMode(34, OUTPUT)` for example
 won't work.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=VaFTmUmr8GY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--more-->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VaFTmUmr8GY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="/sketches/Blink/Blink.png" alt="LED Circuit" width="280" />
+ 
 [1]: https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
 [2]: https://github.com/ERROPiX/ESP32_AnalogWrite
-[3]: https://www.arduino.cc/en/Tutorial/KnightRider
 [4]: https://www.arduino.cc/en/tutorial/blink
 [5]: https://computers.tutsplus.com/tutorials/how-to-use-a-breadboard-and-build-a-led-circuit--mac-54746

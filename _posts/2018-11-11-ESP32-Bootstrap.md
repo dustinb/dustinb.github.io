@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Arduino ESP8266 Bootstrap
+title: Arduino ESP32 Bootstrap
 categories: [Arduino]
 tags: [YouTube, ESP8266]
 excerpt_separator: <!--more-->
 ---
 
 Created a short video outlining the steps to get [Arduino IDE][1] setup for development on 
-ESP8266 development board. Using [Espressif core code][2] and the 
+ESP32 development board. Using [Espressif core code][2] and the 
 [NODEMCU ESP-32S](http://a.co/d/6KQUi02). 
 
 
