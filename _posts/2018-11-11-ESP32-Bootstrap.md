@@ -7,13 +7,17 @@ excerpt_separator: <!--more-->
 ---
 
 Created a short video outlining the steps to get [Arduino IDE][1] setup for development on 
-ESP8266 development board. Specifically the [NODEMCU ESP-32S](http://a.co/d/6KQUi02). ![ESP32](/images/NodeMCU-32S.png)
+ESP8266 development board. Using [Espressif core code][2] and the 
+[NODEMCU ESP-32S](http://a.co/d/6KQUi02). 
+
+
+![ESP32](/images/NodeMCU-32S.png)
 
 <!--more-->
 
 1. [Arduino IDE][1] install
  
-2. Installing [Espressif](https://github.com/espressif/arduino-esp32) board manager files
+2. Installing [Espressif][2] board manager files
 
 3. Select correct board and compiling/uploading the example blink sketch
  
@@ -21,3 +25,4 @@ ESP8266 development board. Specifically the [NODEMCU ESP-32S](http://a.co/d/6KQU
 
 
 [1]: https://www.arduino.cc/
+[2]: https://github.com/espressif/arduino-esp32
