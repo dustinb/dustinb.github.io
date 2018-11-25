@@ -6,7 +6,7 @@
 name: RoundPorch Hobbies
 
 # Short bio or description (displayed in the header)
-description: Some type of blog
+description: Posts on various hobbies related to Arduino, 3D Printing and other hobbies.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/dustinb/dustinb.github.io/master/images/roundporch.jpg
@@ -18,8 +18,8 @@ avatar: https://raw.githubusercontent.com/dustinb/dustinb.github.io/master/image
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: roundporch@gmail.com
+  facebook: dustindbutler
   flickr:
   github: dustinb/dustinb.github.io
   instagram:

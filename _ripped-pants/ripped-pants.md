@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Vampire
+title: Ripped Pants
 categories: [Ripped Pants]
 tags: [Walk, crow, chaman, pricked, gateway, sun glasses, shirt, in town woman were all pregnant, michael jackson, shark]
 excerpt_separator: <!--more-->
