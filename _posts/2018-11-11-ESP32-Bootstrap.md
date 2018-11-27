@@ -22,7 +22,10 @@ ESP32 development board. Using [Espressif core code][2] and the
 4. If USB to UART port is not showing up install the driving from [Silicon Labs][3] 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uYQBLecCIdI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+5. If drawing with [Fritzing][5] here is the [fzpz file][5].
 
 [1]: https://www.arduino.cc/
 [2]: https://github.com/espressif/arduino-esp32
 [3]: https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+[4]: http://forum.fritzing.org/t/esp32s-hiletgo-dev-boad-with-pinout-template/5357?u=steelgoose
+[5]: http://fritzing.org/home/

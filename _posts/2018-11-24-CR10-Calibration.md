@@ -15,7 +15,7 @@ mm is `400` by default, use `M503` command to view current steps.
     (400 * 20 / 19.9) = 402.01
     (93 * 100 / 87.5) = 106.28
     
-To set in marlin use `M92`: `M92 Z402`. The same formula can be used for extruder steps per mm.  I extruded `100mm`
+To set in marlin use `M92 Z402`. The same formula can be used for extruder steps per mm.  I extruded `100mm`
 and measured `87.5` instead. I put these values in [Simplify3D][2] Script tab along with their other default G-code
 
 ```text

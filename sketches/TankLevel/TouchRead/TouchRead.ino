@@ -2,7 +2,7 @@
 // Just test touch pin - Touch0 is T0 which is on GPIO 4.
 
 const float referenceHeight = 20;
-const int referenceRef = 77;
+const int referenceRef = 78;
 const int referenceLvl = 62;
 const int empty = 62;
 const int full = 21;
