@@ -9,8 +9,9 @@ Had a little accident when _leaving_ the RV repair shop.  Finding a replacement 
 easy so time to bust out the digital calipers. Cut out small section that was bent beyond repair and 
 sketched up a rough draft of the cross section of the aluminum extrusion.
 
-Went though at least 3 test fits then printed out a 8" piece of plastic extrusion that was a similar
-color.
+Went though at least 3 test fits then printed out a [8" piece of plastic extrusion][/assets/rvsd/AluminunDoorExtrusion5.stl] 
+that was a similar color.  Still bit bent out of shape but could work in the mean time. If it doesn't work can 
+print a whole door.
 
 <a href="/assets/rvsd/IMG_1315.jpg" data-lightbox="image-1" data-title="Bent Screen Door">
   <img width="150" src="/assets/rvsd/IMG_1315.jpg"/>
@@ -27,6 +28,13 @@ color.
 <a href="/assets/rvsd/IMG_1320.jpg" data-lightbox="image-1" data-title="Door">
   <img width="150" src="/assets/rvsd/IMG_1320.jpg"/>
 </a>
+<a href="/assets/rvsd/IMG_1325.jpg" data-lightbox="image-1" data-title="Door">
+  <img width="150" src="/assets/rvsd/IMG_1325.jpg"/>
+</a>
+<a href="/assets/rvsd/IMG_1327.jpg" data-lightbox="image-1" data-title="Door">
+  <img width="150" src="/assets/rvsd/IMG_1327.jpg"/>
+</a>
+
 
 
 <div id="target" class="madeleine"></div>
