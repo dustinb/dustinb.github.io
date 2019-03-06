@@ -56,7 +56,16 @@ how I got lightbox working in Jekyll.  Some of these are real photos, some are r
        <img width="150" src="/images/vehicles/1972DS7.jpg"/>
      </a>
     </div>
-  </div>      
+  </div>  
+  
+  <div class="item">
+    <div class="item-content">
+     <a href="/images/vehicles/1994Chevey.jpg" data-lightbox="image-1" data-title="1994 Chevey C1500">
+       <img width="150" src="/images/vehicles/1994Chevey.jpg"/>
+     </a>
+    </div>
+  </div>  
+        
   <div class="item">
     <div class="item-content">
      <a href="/images/vehicles/1977XS750.jpg" data-lightbox="image-1" data-title="1977 Yamaha XS750">
@@ -164,6 +173,15 @@ the fun but I paid something like $125 for someone to take my $400 car away for 
   <img width="200" src="/images/vehicles/2001DRZ.jpg"/>
 </a>
 
+# 1994 Chevy C1500 Silverado
+
+Having hard time finding good picture so we have a 1978 Yamaha DT125 in the mix.  This was a great truck and still 
+ran great when I sold it to upgrade to something with 4 wheel drive.
+
+<a href="/images/vehicles/1994Chevey.jpg" data-lightbox="image-1" data-title="1994 Chevey C1500">
+  <img width="200" src="/images/vehicles/1994Chevey.jpg"/>
+</a>
+
 # 1972 Yamaha DS7
 
 The picture not of the exact bike but is same year, color, and similar dent on the tank. This was a sweet ride, 2 stroke
@@ -174,14 +192,7 @@ how in summer of 2018.
   <img width="150" src="/images/vehicles/1972DS7.jpg"/>
 </a>
 
-# 1994 Chevy C1500
 
-Having hard time finding good picture so we have a 1978 Yamaha DT125 in the mix.  This was a great truck and still 
-ran great when I sold it to upgrade to something with 4 wheel drive.
-
-<a href="/images/vehicles/1978DT125.jpg" data-lightbox="image-1" data-title="1994 Chevey C15005">
-  <img width="200" src="/images/vehicles/1978DT125.jpg"/>
-</a>
 
 # 1977 Yamaha XS750
 This was a 1977 but came with a 1979? XS750 engine install and also another 1978 engine as a spare. Purchase price
